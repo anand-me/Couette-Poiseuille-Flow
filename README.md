@@ -21,7 +21,7 @@ The ﬂow is driven by virtue of viscous drag force acting on the ﬂuid, but ma
 </p>
 
 <p align="center">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/akshay23sept/Mixing-length-model/blob/master/refrences/cp_flow_geometry.png"><img src="https://github.com/akshay23sept/Mixing-length-model/blob/master/refrences/cp_flow_geometry.png" alt="Screenshot" width="750" height="450" style="max-width:100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/anand-me/Mixing-Length-Model/blob/master/refrences/cp_flow_geometry.png"><img src="https://github.com/anand-me/Mixing-Length-Model/blob/master/refrences/cp_flow_geometry.png" alt="Screenshot" width="750" height="450" style="max-width:100%;"></a>
 </p>
 
 ## Prerequisites
@@ -36,10 +36,10 @@ The ﬂow is driven by virtue of viscous drag force acting on the ﬂuid, but ma
 ## Download 
 
 - Clone the repository with all the development phase data by
-  `https://github.com/akshay23sept/Mixing-length-model`
+  `https://github.com/anand-me/Mixing-Length-Model`
 
 
 ## Issues
 - Feel free to raise an issue at 
-       https://github.com/akshay23sept/Scenario-Based-Forecast-Study
+       https://github.com/anand-me/Mixing-Length-Model
   
