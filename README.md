@@ -16,20 +16,14 @@ The ﬂow is driven by virtue of viscous drag force acting on the ﬂuid, but ma
 
 
 ## Illustration of geometry 
-<p align="center">
-<code>Figure:</code> Illustration of geometry
-</p>
 
-![alt text](href ="https://github.com/anand-me/Mixing-Length-Model/blob/master/refrences/cp_flow_geometry.png")
 
-<a href="https://github.com/anand-me/Mixing-Length-Model/blob/master/refrences/cp_flow_geometry.png" rel="nofollow">International Master's in Turbulence (IMP-Turbulence)</a>
-<p align="center">
-<code>Figure:</code> Illustration of geometry
-</p>
 
-<p align="center">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/anand-me/Mixing-Length-Model/blob/master/refrences/cp_flow_geometry.png"><img src="https://github.com/anand-me/Mixing-Length-Model/blob/master/refrences/cp_flow_geometry.png" alt="Screenshot" width="550" height="250" style="max-width:100%;"></a>
-</p>
+<a href="https://github.com/anand-me/Mixing-Length-Model/blob/master/refrences/cp_flow_geometry.png" rel="nofollow">Illustration of geometry </a>
+
+
+
+
 
 ## Prerequisites
 
