@@ -1,5 +1,6 @@
-# Mixing-Length-Model
-This repository is dedicated to the <code>individual research project</code> by International Master's in Turbulence (IMP-Turbulence) 2019 batch.
+# Couette-Poiseuille-Flow
+
+This repository is dedicated to the <code>individual research project</code> during the masters program "International Master's in Turbulence (IMP-Turbulence"  at École Centrale de Lille, France 2017-2019 batch.
 
 
 ## Introduction
