@@ -1,7 +1,6 @@
 # Couette-Poiseuille-Flow
 
-This repository is dedicated to the <code>individual research project</code> during the masters program "International Master's in Turbulence (IMP-Turbulence"  at École Centrale de Lille, France 2017-2019 batch. <a id="user-content-requirements a" href="https://centralelille.fr/en/aeronautic-space-major-turbulence/"></a>
-
+This repository is dedicated to the <code>individual research project</code> during the masters program "International Master's in Turbulence (IMP-Turbulence"  at École Centrale de Lille, France 2017-2019 batch <a href="https://github.com/ecalzavarini/ch4-project/wiki" rel="nofollow">here</a>. 
 
 ## Introduction
 The repository contains the work done on computation of Couette-Poiseuille flow with a mixing-length model of turbulence. This work
