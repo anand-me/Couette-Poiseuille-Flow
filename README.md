@@ -15,7 +15,7 @@ To write a simple program for a turbulent model for a simplified case and compar
 The ﬂow is driven by virtue of viscous drag force acting on the ﬂuid, but may additionally be motivated by an applied pressure gradient in the ﬂow direction which is then a case combined with the <code>Poiseuille ﬂow</code>. <code>Shear-driven ﬂuid motion</code> is one of the most common example of couette flow.
 
 
-## Illustration of geometry 
+
 
 
 
