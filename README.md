@@ -1,6 +1,6 @@
 # Couette-Poiseuille-Flow
 
-This repository is dedicated to the <code>individual research project</code> during the masters program "International Master's in Turbulence (IMP-Turbulence"  at École Centrale de Lille, France 2017-2019 batch.
+This repository is dedicated to the <code>individual research project</code> during the masters program "International Master's in Turbulence (IMP-Turbulence"  at École Centrale de Lille, France 2017-2019 batch. <a id="user-content-requirements" href="https://centralelille.fr/en/aeronautic-space-major-turbulence/"></a>
 
 
 ## Introduction
