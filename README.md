@@ -17,7 +17,7 @@ The ﬂow is driven by virtue of viscous drag force acting on the ﬂuid, but ma
 ![Illustration of geometry](https://github.com/anand-me/Mixing-Length-Model/blob/master/refrences/cp_flow_geometry.png)
 </p>
 
-## A <code>Lattice-Boltzmann method (LBM)</code> based approach to study Eulerian-Lagrangian fluid dynamics
+## A <code>Illustration of geometry</code> 
 ![alt text](https://github.com/anand-me/Simulation-approach-in-C-and-Python/blob/master/images/example.png)
 
 
