@@ -22,7 +22,7 @@ The ﬂow is driven by virtue of viscous drag force acting on the ﬂuid, but ma
 
 ![alt text](href ="https://github.com/anand-me/Mixing-Length-Model/blob/master/refrences/cp_flow_geometry.png")
 
-
+<a href="https://github.com/anand-me/Mixing-Length-Model/blob/master/refrences/cp_flow_geometry.png" rel="nofollow">International Master's in Turbulence (IMP-Turbulence)</a>
 <p align="center">
 <code>Figure:</code> Illustration of geometry
 </p>
