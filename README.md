@@ -16,7 +16,7 @@ The ﬂow is driven by virtue of viscous drag force acting on the ﬂuid, but ma
 <p align="center">
 <code>Figure:</code> Illustration of geometry
 </p>
-![alt text](https://github.com/anand-me/Mixing-Length-Model/blob/master/refrences/cp_flow_geometry.png)
+![Akshay](https://github.com/anand-me/Mixing-Length-Model/blob/master/refrences/cp_flow_geometry.png)
 
 
 
