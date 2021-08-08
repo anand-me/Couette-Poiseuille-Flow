@@ -1,5 +1,6 @@
 !==================================================================
 !COMPILE USING gfortran cpfinal.f90 -o cpfinal.exe
+!Author: Akshay Anand 
 !RUN USING     ./cpfinal.exe
 !================================================================== 
 PROGRAM CP_FLOW
